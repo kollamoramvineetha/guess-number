@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guess-number/static/css/main.3509472a.css",
+    "main.js": "/guess-number/static/js/main.e96b5917.js",
+    "static/js/787.97673707.chunk.js": "/guess-number/static/js/787.97673707.chunk.js",
+    "index.html": "/guess-number/index.html",
+    "main.3509472a.css.map": "/guess-number/static/css/main.3509472a.css.map",
+    "main.e96b5917.js.map": "/guess-number/static/js/main.e96b5917.js.map",
+    "787.97673707.chunk.js.map": "/guess-number/static/js/787.97673707.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3509472a.css",
+    "static/js/main.e96b5917.js"
+  ]
+}
